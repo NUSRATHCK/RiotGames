@@ -1,0 +1,35 @@
+.navbar{
+  background-color:black;
+}
+.support{
+  font-weight: bold;
+}
+.button{
+  background-color: black;
+  border: none;
+}
+.hover:hover{
+  cursor: pointer;
+}
+.riot{
+  font-size: 60px;
+  color: black;
+}
+.link{
+  color: blue;
+  font-size: small;
+  text-decoration: underline;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  
+}
+.end{
+  background-color: rgb(30, 30, 30);
+}
+.list:hover{
+  cursor: pointer;
+  color: rgb(218, 82, 82);
+}
